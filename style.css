@@ -1,0 +1,29 @@
+* {
+    font-family: "Quicksand";
+    background-color: #fff8ee;
+}
+
+.header {
+    font-size: 70px;
+    font-weight: 900;
+}
+/*How do i close this gap?*/
+li {
+    color: rgba(207, 22, 22, 0.92);
+    font-weight: 500;
+}
+
+.mario {
+    height: auto;
+    width: 550px;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+    color: rgba(207, 22, 22, 0.92);
+}
+
+a:hover {
+    text-decoration: underline;
+}
