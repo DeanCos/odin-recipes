@@ -1,11 +1,11 @@
 * {
-    font-family: "Quicksand";
+    font-family: "Quicksand", sans-serif;
     background-color: #fff8ee;
 }
 
 .header {
     font-size: 70px;
-    font-weight: 900;
+    font-weight: 700;
 }
 /*How do i close this gap?*/
 li {
