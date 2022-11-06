@@ -3,25 +3,25 @@
     background-color: #fff8ee;
 }
 
-.header {
+.list.header {
     font-size: 70px;
     font-weight: 700;
 }
-/*How do i close this gap?*/
+
 li {
-    color: rgba(207, 22, 22, 0.92);
+    color: #cf1616eb;
     font-weight: 500;
 }
 
 .mario {
     height: auto;
-    width: 550px;
+    width: 450px;
 }
 
 a:link,
 a:visited {
     text-decoration: none;
-    color: rgba(207, 22, 22, 0.92);
+    color: #cf1616eb;
 }
 
 a:hover {
